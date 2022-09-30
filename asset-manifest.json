@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/styling-components-project/static/css/main.f3229784.css",
-    "main.js": "/styling-components-project/static/js/main.a8e2b9cd.js",
+    "main.css": "/styling-components-project/static/css/main.49d354dc.css",
+    "main.js": "/styling-components-project/static/js/main.f9733142.js",
     "index.html": "/styling-components-project/index.html",
-    "main.f3229784.css.map": "/styling-components-project/static/css/main.f3229784.css.map",
-    "main.a8e2b9cd.js.map": "/styling-components-project/static/js/main.a8e2b9cd.js.map"
+    "main.49d354dc.css.map": "/styling-components-project/static/css/main.49d354dc.css.map",
+    "main.f9733142.js.map": "/styling-components-project/static/js/main.f9733142.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3229784.css",
-    "static/js/main.a8e2b9cd.js"
+    "static/css/main.49d354dc.css",
+    "static/js/main.f9733142.js"
   ]
 }
